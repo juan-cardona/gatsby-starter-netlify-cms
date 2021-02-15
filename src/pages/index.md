@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Escuela de Datos
-image: /img/product_photography.svg
+image: /img/fabio-oyxis2kalvg-unsplash.jpg
 heading: Ciencia de Datos en español
 subheading: El hub para aprender ciencia de datos
 mainpitch:
