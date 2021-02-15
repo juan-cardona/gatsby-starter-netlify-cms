@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Escuela de Datos
-image: /img/fabio-oyxis2kalvg-unsplash.jpg
+image: /img/florian-olivo-4hbj-eymz1o-unsplash.jpg
 heading: Ciencia de Datos en español
 subheading: El hub para aprender ciencia de datos
 mainpitch:
@@ -17,14 +17,14 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/tutorials.png
+    - image: /img/undraw_data_re_80ws.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/undraw_data_extraction_ih3n.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
