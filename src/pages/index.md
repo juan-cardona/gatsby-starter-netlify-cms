@@ -1,20 +1,16 @@
 ---
 templateKey: index-page
 title: Escuela de Datos
-image: /img/florian-olivo-4hbj-eymz1o-unsplash.jpg
+image: /img/markus-spiske-cvbbo4pzwpg-unsplash.jpg
 heading: Ciencia de Datos en español
 subheading: El hub para aprender ciencia de datos
 mainpitch:
   title: Escuela de datos
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  description: Este es un espacio para que personas de habla hispana puedan
+    encontrar contenidoo de calidad referente a ciencia de datos.
+description: Ciencia de datos es el mejor lugar para iniciar tu recorrido en la
+  ciencia de datos, aquí encontraras tutoriales, guías y herramientas esenciales
+  que te ayudaran a convertirte en un científico de datos éxitoso
 intro:
   blurbs:
     - image: /img/undraw_data_re_80ws.png
@@ -31,7 +27,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: ¿Qué ofrecemos?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
